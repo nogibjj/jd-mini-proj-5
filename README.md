@@ -1,6 +1,1 @@
-# rust-new-project-template
-A good starting point for a new Rust project
-
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+A command line tool that takes in a string from user, calculates every bigram from the string and its count as a hash map, and then prints every bigram and count. 
